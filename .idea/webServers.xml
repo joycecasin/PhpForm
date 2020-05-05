@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d9154048-4fc0-4a50-a2ae-11b03a825ed1" name="localhost" url="http://localhost/phptabelbootstrap">
+        <fileTransfer port="0" mountedRoot="C:\wamp64\www\phptabelbootstrap" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
